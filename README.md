@@ -1,2 +1,3 @@
-# tech
-technical memo
+# technical notes
+
+Some notes for myself.
